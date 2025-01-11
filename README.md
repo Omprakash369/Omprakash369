@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Omprakash 
-- 👀 Omprakash has worked in a MNC as IT analyst. Currently upskilling in data domain. 
+- 👀 Omprakash has worked in a TCS as Business analyst. Currently upskilling in data domain. 
 - 🌱 I’m currently learning Data science and Machine Learning. 
-- 📫 How to reach me smomprakash1999@gmail.com
+- 📫 How to reach me 08omprakash19@gmail.com
 - 😄 Pronouns: He /Him
 - ⚡ Fun fact: Spend more time on bluescreen.
 
